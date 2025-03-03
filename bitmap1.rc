@@ -1,0 +1,15 @@
+#include  "resource.h"
+
+IDB_BITMAP1             BITMAP  MOVEABLE PURE   "image/jc2.bmp" //¼¬´Ì 
+IDB_BITMAP2             BITMAP  MOVEABLE PURE   "image/kerx.bmp" //¿­¶ûÏ£ 
+IDB_BITMAP3             BITMAP  MOVEABLE PURE   "image/bg2.bmp"
+IDB_BITMAP4             BITMAP  MOVEABLE PURE   "image/ysc.bmp"
+IDB_BITMAP6             BITMAP  MOVEABLE PURE   "image/doc.bmp"  //²©Ê¿ 
+IDB_BITMAP7             BITMAP  MOVEABLE PURE   "image/menublood_num-hd.bmp"//Êý×Ö	
+IDB_BITMAP12           BITMAP  MOVEABLE PURE   "image/00003.bmp"
+IDB_BITMAP13           BITMAP  MOVEABLE PURE   "image/00004.bmp"
+IDB_BITMAP14           BITMAP  MOVEABLE PURE   "image/jctx.bmp"
+IDB_BITMAP15           BITMAP  MOVEABLE PURE   "image/kerxtx.bmp"
+IDB_BITMAP16           BITMAP  MOVEABLE PURE   "image/bossr.bmp"
+IDB_BITMAP17           BITMAP  MOVEABLE PURE   "image/bossl.bmp"
+IDB_BITMAP18           BITMAP  MOVEABLE PURE   "image/bossa.bmp"
